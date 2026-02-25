@@ -261,7 +261,6 @@ elif option == "Analytics":
 
 
 
-
 "It's delicious, and i am happy to have this with my love and friends"
 
 
